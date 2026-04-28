@@ -1,11 +1,11 @@
-// import TickTaskLogo from "../assets/TickTaskLogo.svg?react";
+import TickTaskLogo from "../assets/TickTaskLogo.svg?react";
 
 export default function Hero() {
   return (
     <section className="hero">
       <div className="badge">Coming soon to iOS & Android</div>
       <div className="hero-logo">
-        {/* <TickTaskLogo width={72} height={72} /> */}
+        <TickTaskLogo width={300} />
       </div>
       <h1 className="hero-title">
         Your day,

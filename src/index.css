@@ -26,11 +26,11 @@ body {
   font-size: 12px;
   padding: 5px 14px;
   border-radius: 20px;
-  margin-bottom: 24px;
   letter-spacing: 0.05em;
 }
 .hero-logo {
-  margin-bottom: 24px;
+  margin-top: 24px;
+  margin-bottom: 48px;
 }
 .hero-title {
   font-size: 52px;
